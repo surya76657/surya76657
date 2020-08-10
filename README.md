@@ -62,11 +62,13 @@ Coming Soon
   <img align="left" src="https://img.shields.io/badge/surya_praka5h-blue?style=social&logo=Instagram&link=https://instagram.com/surya_praka5h?igshid=k8l41dsudxvo" alt="@surya76657" height="22"  />
 </a>
 <!--[![Instagram Badge](https://img.shields.io/badge/surya_praka5h-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/surya_praka5h) -->
+<!--
 <code>
 - 💬 Ask me about anything, I am happy to help anytime!
 - Competative Coding
 - Open Source enthusiast
 </code>
+-->
 
 
 
