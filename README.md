@@ -39,21 +39,24 @@ Coming Soon
 
 ### Connect with me here:  
 
- <a href="https://twitter.com/surya76657?lang=en">
+<a href="https://twitter.com/surya76657?lang=en">
     <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
 
 <a href="https://medium.com/@surya76657" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" />
-</a>     
+</a> 
 
-[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.0%" height="3.5%"/>](https://www.linkedin.com/in/surya76657/) 
+<a  href="https://www.linkedin.com/in/surya76657/" target="blank">
+  <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="@surya76657" height="30" width="30" />
+</a> 
+
+<!--[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.0%" height="3.5%"/>]() -->
 
 <br>
 
 [![Instagram Badge](https://img.shields.io/badge/surya_praka5h-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/surya_praka5h) 
-
 
 
 - 💬 Ask me about anything, I am happy to help anytime!
