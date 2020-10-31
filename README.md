@@ -39,6 +39,20 @@ I code for FUN in any language including
 ### Portfolio : 
 Coming Soon
 
+### Language used 
+<div style="display:flex;width:'100%'">
+ <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya76657&layout=compact&hide=html" alt="rajat-1994" />
+ </p>
+</div>
+
+
+### Stats
+<div style="display:flex;width:'100%'">
+ <p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya76657&show_icons=true" alt="rajat-1994" />
+ </p>
+</div>
 
 
 ### Connect with me here:  
