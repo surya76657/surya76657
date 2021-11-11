@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I code for FUN in any language including   
 | Javascript | C/C++ | ReactJS | NodeJS | ReactJS | VueJS |
  | :---: | :---: | :---: | :---: |  :---: |  :---: | 
- 
 
 ### Technologies & Frameworks I have worked with : 
 
@@ -39,22 +38,15 @@ I code for FUN in any language including
 ### Portfolio : 
 Coming Soon
 
-### Language used :
 
-<div style="display:flex;width:'100%'">
- <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya76657&layout=compact&hide=html" alt="surya76657" height="200" width="500"/>
- </p>
-</div>
+## &#x1f4c8; GitHub Stats
 
-
-### Stats :
-
-<div style="display:flex;width:'100%'">
- <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya76657&show_icons=true"  alt="surya76657" height="200" width="500"/>
- </p>
-</div>
+<a href="https://github.com/surya76657/surya76657">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya76657&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/surya76657/surya76657">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surya76657&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Surya's GitHub Stats" />
+</a>
 
 
 ### Connect with me here:  
@@ -72,31 +64,9 @@ Coming Soon
   <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="@surya76657" height="30" width="30" />
 </a> 
 
-<!--[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.0%" height="3.5%"/>]() -->
-
-<a  href="https://instagram.com/surya_praka5h" target="blank">
+<a href="https://instagram.com/surya_praka5h" target="blank">
   <img align="left" src="https://img.shields.io/badge/surya_praka5h-blue?style=social&logo=Instagram&link=https://instagram.com/surya_praka5h?igshid=k8l41dsudxvo" alt="@surya76657" height="22"  />
 </a>
-<!--[![Instagram Badge](https://img.shields.io/badge/surya_praka5h-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/surya_praka5h) -->
-<!--
-<code>
-- 💬 Ask me about anything, I am happy to help anytime!
-- Competative Coding
-- Open Source enthusiast
-</code>
--->
 
 
-
-<!--
-<a href=https://github.com/TesseractCoding>
-   <img src=https://img.shields.io/badge/TesseractCoding-Contributor-brightgreen>
-</a>
-<a href=https://github.com/codeforcauseorg>
-   <img src=https://img.shields.io/badge/CodeforCause-Contributor-blue>
-</a>
-<a href=https://github.com/girlscriptindia>
-   <img src=https://img.shields.io/badge/GirlScriptFoundation-Contributor-orange>
-</a>
--->
 
