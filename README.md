@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I code for FUN in any language including   
-| Javascript | C/C++ | ReactJS | NodeJS | ReactJS | VueJS |
+| Javascript | C/C++ | Typescript | NodeJS | ReactJS | VueJS |
  | :---: | :---: | :---: | :---: |  :---: |  :---: | 
 
 ### Technologies & Frameworks I have worked with : 
